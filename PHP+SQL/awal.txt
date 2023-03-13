@@ -1,1 +1,0 @@
-menghubungkan database dengan php
